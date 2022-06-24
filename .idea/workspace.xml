@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="377ea02f-b081-4f8a-bcbb-9465f3aa41db" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_city</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectId" id="1g3vwNtp4ghTj8MEbAHdzphPrMB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Aubindb" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="377ea02f-b081-4f8a-bcbb-9465f3aa41db" name="Default" comment="" />
+      <created>1556873798511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556873798511</updated>
+      <workItem from="1556873800042" duration="3659000" />
+      <workItem from="1556909848708" duration="903000" />
+      <workItem from="1556946896603" duration="1428000" />
+      <workItem from="1556971994572" duration="4087000" />
+      <workItem from="1557050072001" duration="1084000" />
+      <workItem from="1557136432564" duration="12044000" />
+      <workItem from="1557174177343" duration="160000" />
+      <workItem from="1557217853238" duration="2977000" />
+      <workItem from="1557232867759" duration="20000" />
+      <workItem from="1557294320125" duration="109000" />
+      <workItem from="1557342316920" duration="603000" />
+      <workItem from="1557384601844" duration="46000" />
+      <workItem from="1557408270119" duration="66000" />
+      <workItem from="1557511486107" duration="17000" />
+      <workItem from="1557580136634" duration="4000" />
+      <workItem from="1557639975193" duration="2048000" />
+      <workItem from="1557818394438" duration="256000" />
+      <workItem from="1557923391166" duration="329000" />
+      <workItem from="1558001049702" duration="614000" />
+      <workItem from="1558096183742" duration="320000" />
+      <workItem from="1558272488221" duration="685000" />
+      <workItem from="1558441793787" duration="14000" />
+      <workItem from="1558513437173" duration="4840000" />
+      <workItem from="1558614584511" duration="321000" />
+      <workItem from="1558704418716" duration="601000" />
+      <workItem from="1559133053013" duration="35000" />
+      <workItem from="1560496398667" duration="606000" />
+      <workItem from="1561009377446" duration="625000" />
+      <workItem from="1564212947165" duration="1782000" />
+      <workItem from="1564391032768" duration="162000" />
+      <workItem from="1564391206625" duration="36000" />
+      <workItem from="1572001766344" duration="1579000" />
+      <workItem from="1572158407552" duration="5216000" />
+      <workItem from="1580129796336" duration="3016000" />
+      <workItem from="1580149292044" duration="8465000" />
+      <workItem from="1580188866522" duration="4154000" />
+      <workItem from="1580193330505" duration="494000" />
+      <workItem from="1580221024659" duration="4499000" />
+      <workItem from="1584273464867" duration="3657000" />
+      <workItem from="1584482541554" duration="1407000" />
+      <workItem from="1584537927504" duration="601000" />
+      <workItem from="1584683241178" duration="2417000" />
+      <workItem from="1584855668017" duration="36000" />
+      <workItem from="1585892743815" duration="2507000" />
+      <workItem from="1597356329899" duration="206000" />
+      <workItem from="1597861303818" duration="866000" />
+      <workItem from="1597863481967" duration="2852000" />
+      <workItem from="1597869393579" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
